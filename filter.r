@@ -10,12 +10,6 @@ crates <- read_csv(
     show_col_types = FALSE
 )
 
-categories_path <- file.path("categories.csv")
-categories <- read_csv(
-    categories_path,
-    show_col_types = FALSE
-)
-
 quantile_max <- unname(quantile(crates$downloads, c(.80)))[[1]]
 top20 <- crates %>% filter(
     downloads >= quantile_max
