@@ -1,0 +1,1161 @@
+39,Compression
+41,Cryptography
+251,Development tools::FFI
+429,Operating systems::Windows APIs
+429,No standard library
+572,Multimedia::Audio
+572,Operating systems::Unix APIs
+602,No standard library
+694,Multimedia
+694,Rendering::Graphics APIs
+695,Rendering::Data formats
+697,Multimedia::Audio
+698,GUI
+699,Rendering
+700,Rendering::Data formats
+701,Rendering::Data formats
+714,Game engines
+714,Multimedia
+714,Rendering
+795,Operating systems
+795,No standard library
+867,Multimedia::Images
+1324,API bindings
+1324,Operating systems
+1324,No standard library
+1454,Database interfaces
+1508,Multimedia::Images
+1702,API bindings
+1702,Authentication
+1702,Operating systems::Unix APIs
+2123,Science
+2124,Science
+2125,Science
+2241,Database interfaces
+2540,Cryptography
+2621,Network programming
+2646,Multimedia::Encoding
+2972,GUI
+3109,Internationalization (i18n)
+3519,Operating systems::macOS APIs
+3787,GUI
+3787,Multimedia
+3789,GUI
+3789,Multimedia
+4053,Hardware support
+4247,Multimedia
+4326,Cryptography
+4599,Hardware support
+4599,Operating systems
+4652,API bindings
+4995,Cryptography
+5003,Hardware support
+5181,Science
+5343,Science
+5477,Development tools::Debugging
+5664,Multimedia::Images
+5890,API bindings
+5890,Asynchronous
+5890,Science
+6037,Hardware support
+6298,GUI
+6299,GUI
+6300,GUI
+6904,Filesystem
+6904,Operating systems::Unix APIs
+6904,No standard library
+7122,Multimedia::Audio
+7241,API bindings
+7241,Database interfaces
+7559,Multimedia::Audio
+7688,Science
+7907,No standard library
+7907,Mathematics
+8166,Encoding
+8166,Multimedia::Audio
+8169,Multimedia::Audio
+8191,Multimedia::Audio
+8249,Asynchronous
+8249,Database interfaces
+8260,Hardware support
+8344,GUI
+8379,Multimedia::Encoding
+8543,API bindings
+8543,Development tools::FFI
+8543,No standard library
+8677,Multimedia::Images
+8795,API bindings
+8795,Text processing
+8795,Value formatting
+8813,Database interfaces
+9055,Database interfaces
+9108,API bindings
+9108,Encoding
+9109,API bindings
+9109,Encoding
+10418,Development tools::FFI
+11080,API bindings
+11080,Emulators
+11117,API bindings
+11117,Authentication
+11875,Database interfaces
+11875,Hardware support
+12047,GUI
+12421,API bindings
+13558,Rendering::Graphics APIs
+13558,Rendering
+13558,No standard library
+13723,Filesystem
+13858,Filesystem
+13858,Hardware support
+13858,Memory management
+14946,Hardware support
+15720,Rendering::Rendering engine
+15821,Database interfaces
+15822,Database interfaces
+15867,Embedded development
+15867,No standard library
+17208,Hardware support
+17208,Memory management
+17208,Network programming
+17212,Command-line interface
+17212,Hardware support
+17212,Memory management
+18061,API bindings
+18061,Hardware support
+18114,Encoding
+18114,Multimedia::Audio
+18114,Multimedia::Encoding
+18724,GUI
+19677,Embedded development
+20462,Operating systems::Unix APIs
+21193,API bindings
+21193,Database interfaces
+21196,API bindings
+21196,Asynchronous
+21196,Database interfaces
+24085,API bindings
+24085,Network programming
+24101,Data structures
+24102,Data structures
+24949,Network programming
+25568,Hardware support
+26287,Science
+27945,Parsing tools
+30338,Memory management
+30338,No standard library
+31070,API bindings
+31070,Network programming
+31070,Operating systems::Unix APIs
+32536,Embedded development
+32543,Compression
+32543,Encoding
+32543,Web programming
+32760,Compression
+32760,Encoding
+32760,Multimedia
+32760,Web programming
+32773,Compression
+32773,Encoding
+32773,Web programming
+33092,Filesystem
+34706,GUI
+34728,GUI
+34729,GUI
+34730,GUI
+34732,GUI
+34917,Encoding
+34917,Hardware support
+34917,Parsing tools
+35378,API bindings
+35537,Cryptography
+35847,Operating systems::Windows APIs
+36241,Compression
+36241,Science
+37032,Database interfaces
+38157,Concurrency
+38425,Development tools::Debugging
+38469,Filesystem
+38675,Network programming
+38675,Operating systems::Unix APIs
+38675,Operating systems
+38681,Cryptography
+38681,Hardware support
+38926,API bindings
+38926,Asynchronous
+39340,Science
+39341,Science
+40160,Rendering::Rendering engine
+41114,Cryptography
+42874,Development tools
+42874,Development tools::Build Utils
+44454,GUI
+45238,Multimedia::Audio
+45893,API bindings
+45893,Hardware support
+45893,Rendering::Graphics APIs
+45893,Rendering
+46310,API bindings
+46310,Concurrency
+46310,Hardware support
+46396,API bindings
+46396,Text processing
+46396,Internationalization (i18n)
+48019,API bindings
+48020,API bindings
+48806,API bindings
+48806,Multimedia::Video
+48821,Algorithms
+49140,Operating systems::macOS APIs
+49261,Cryptography
+50216,Hardware support
+50788,Development tools::FFI
+50788,Development tools::Profiling
+50789,Development tools::FFI
+50789,Development tools::Profiling
+51078,API bindings
+51078,Asynchronous
+51078,Filesystem
+51078,Operating systems::Unix APIs
+52119,Database interfaces
+54878,Science
+54936,API bindings
+55020,API bindings
+55020,Multimedia::Video
+57328,Games
+57328,API bindings
+57887,Algorithms
+57887,Data structures
+57887,Memory management
+57962,Concurrency
+57962,Science
+58540,Hardware support
+58540,Multimedia::Audio
+58540,Multimedia
+58764,Algorithms
+58863,Cryptography
+58863,Hardware support
+59594,Operating systems
+60634,API bindings
+60634,Hardware support
+60634,Rendering::Graphics APIs
+60634,Rendering
+61321,Multimedia::Images
+61959,Operating systems
+61960,Operating systems
+63207,API bindings
+63207,Hardware support
+63207,Operating systems::FreeBSD APIs
+63591,Games
+63901,API bindings
+63901,Multimedia::Images
+63901,Multimedia
+64199,API bindings
+64199,Multimedia::Images
+64199,Multimedia
+64915,API bindings
+65272,API bindings
+65272,Development tools::FFI
+65272,Operating systems::macOS APIs
+65272,No standard library
+65274,API bindings
+65274,Operating systems::macOS APIs
+65274,No standard library
+66413,Parser implementations
+66947,Compression
+67182,Multimedia::Audio
+68271,API bindings
+68271,Operating systems::Unix APIs
+68271,Operating systems::Windows APIs
+69626,Network programming
+70346,Network programming
+70346,Operating systems
+70460,Parsing tools
+71162,API bindings
+71162,Filesystem
+71162,Network programming
+71377,GUI
+71440,Hardware support
+71440,Operating systems
+72867,Hardware support
+72867,Operating systems
+72867,No standard library
+72939,Encoding
+72939,Text processing
+72939,Localization (L10n)
+74037,Operating systems::Windows APIs
+74134,Network programming
+75061,Cryptography
+75061,No standard library
+76785,Hardware support
+76785,Network programming
+76786,Network programming
+76787,Hardware support
+76787,Network programming
+76788,Hardware support
+76788,Network programming
+76789,Memory management
+76789,Network programming
+76831,Network programming
+76832,Network programming
+78010,Data structures
+78010,Network programming
+78243,Data structures
+78243,Network programming
+78332,Algorithms
+78332,Hardware support
+78332,Network programming
+78829,GUI
+79094,Hardware support
+79094,Network programming
+79103,Multimedia::Video
+79185,Multimedia::Audio
+79562,API bindings
+79562,Hardware support
+79562,No standard library
+79732,Network programming
+80206,Development tools::Build Utils
+80223,Network programming
+80224,Network programming
+80441,Network programming
+80877,Database interfaces
+80891,API bindings
+80891,Operating systems::macOS APIs
+80891,No standard library
+80892,API bindings
+80892,Operating systems::macOS APIs
+80892,No standard library
+80893,API bindings
+80893,Operating systems::macOS APIs
+80893,No standard library
+80894,API bindings
+80894,Operating systems::macOS APIs
+80894,No standard library
+81177,Operating systems::Windows APIs
+81432,Operating systems::Unix APIs
+82022,Network programming
+82022,Operating systems::Unix APIs
+82022,No standard library
+83217,API bindings
+83217,Filesystem
+83217,Network programming
+84153,Operating systems::Windows APIs
+84153,No standard library
+84394,Web programming::HTTP server
+84615,Hardware support
+84615,Operating systems::Unix APIs
+84615,Operating systems
+84615,No standard library
+84617,Hardware support
+84617,Operating systems::Unix APIs
+84617,Operating systems
+84617,No standard library
+85545,Network programming
+85545,Operating systems::Unix APIs
+85545,No standard library
+86947,Network programming
+86947,Operating systems
+87883,Operating systems::Unix APIs
+87883,Operating systems
+88063,Hardware support
+88063,Operating systems::Unix APIs
+88063,Operating systems
+88063,No standard library
+88263,Filesystem
+88263,Operating systems::Unix APIs
+88840,Operating systems::Unix APIs
+90899,Localization (L10n)
+91138,Multimedia::Audio
+91138,Multimedia::Encoding
+91520,Hardware support
+91520,Embedded development
+91585,Hardware support
+91585,Embedded development
+92378,API bindings
+92759,Development tools::Profiling
+92759,Hardware support
+93770,Encoding
+93776,Hardware support
+93776,Embedded development
+94844,Hardware support
+95894,Network programming
+97382,Cryptography
+98025,API bindings
+98264,Operating systems::Windows APIs
+98750,No standard library
+99854,Concurrency
+99854,Operating systems
+102182,API bindings
+102182,Hardware support
+104177,Multimedia
+104177,No standard library
+105177,Filesystem
+105177,Operating systems::Unix APIs
+105626,GUI
+105827,API bindings
+105952,Science
+107171,Asynchronous
+107171,Network programming
+107171,Operating systems::Unix APIs
+107593,API bindings
+107593,Hardware support
+107835,Operating systems::Unix APIs
+108100,API bindings
+108100,Hardware support
+108777,No standard library
+110363,Operating systems
+111043,Development tools::Debugging
+111268,Database interfaces
+112717,Cryptography
+114270,Compression
+114270,Science
+115913,Encoding
+115913,Multimedia::Audio
+115913,Multimedia
+118162,Science
+118642,Asynchronous
+119611,Operating systems
+120312,Embedded development
+122405,Rendering
+123000,Filesystem
+123000,Operating systems::Unix APIs
+123000,No standard library
+124175,Game engines
+124838,Embedded development
+124838,Science::Robotics
+124944,Embedded development
+124944,Science::Robotics
+125635,API bindings
+125635,Hardware support
+125635,Multimedia::Images
+125894,Operating systems::Windows APIs
+126347,Operating systems::Unix APIs
+126961,No standard library
+127436,Algorithms
+127887,Network programming
+127887,Operating systems::Unix APIs
+128530,Multimedia
+128530,Network programming
+129590,Network programming
+129590,Operating systems::Windows APIs
+133573,Hardware support
+133573,Embedded development
+133573,No standard library
+134773,Operating systems::Windows APIs
+138525,Operating systems
+138526,WebAssembly
+138526,Cryptography::Cryptocurrencies
+138534,Science
+139130,Encoding
+139842,Multimedia::Encoding
+139842,Multimedia::Images
+139842,Multimedia::Video
+143069,Parser implementations
+143694,API bindings
+144981,Science
+145269,API bindings
+145269,Command-line interface
+146454,API bindings
+146454,Asynchronous
+146454,Science
+146455,API bindings
+146455,Asynchronous
+146455,Science
+146456,API bindings
+146456,Asynchronous
+146456,Science
+148807,Development tools::FFI
+150512,Cryptography
+150554,Parsing tools
+151702,Operating systems
+151702,No standard library
+154244,Multimedia::Images
+154244,Visualization
+154244,Rendering::Graphics APIs
+154244,Graphics
+154911,Operating systems
+155319,Multimedia::Images
+155319,Multimedia::Video
+156048,Filesystem
+156048,Operating systems
+156145,Game engines
+156145,Simulation
+156426,Operating systems::macOS APIs
+158031,Algorithms
+160963,Multimedia::Audio
+160963,Text processing
+161696,Embedded development
+161941,No standard library
+162323,Database implementations
+163631,GUI
+163632,GUI
+163724,API bindings
+165150,Development tools::FFI
+165991,Science
+165991,Visualization
+165991,Simulation
+168722,Development tools::FFI
+168722,No standard library
+168802,Game engines
+169410,Operating systems::Unix APIs
+169410,No standard library
+170424,Multimedia::Encoding
+170558,Email
+171789,Development tools::FFI
+173414,Operating systems::Unix APIs
+173414,No standard library
+174484,Development tools::Cargo plugins
+174484,Hardware support
+174484,Embedded development
+177380,Memory management
+179425,Embedded development
+179644,Embedded development
+179660,Embedded development
+181226,Embedded development
+181226,Science::Robotics
+181227,Embedded development
+181227,Science::Robotics
+181228,Embedded development
+181228,Science::Robotics
+184125,Science
+185055,Multimedia
+187067,Operating systems::Windows APIs
+187067,No standard library
+187432,Data structures
+187432,No standard library
+189401,Operating systems::Windows APIs
+189401,No standard library
+190193,Development tools::Profiling
+190193,Hardware support
+190193,Operating systems::Linux APIs
+195488,API bindings
+195488,Concurrency
+195488,Hardware support
+195488,Science
+196371,Multimedia::Audio
+197054,Operating systems::Linux APIs
+198541,Command-line interface
+198541,Multimedia
+198541,Visualization
+198541,Rendering
+198607,API bindings
+198607,Cryptography
+199018,Embedded development
+201313,Multimedia::Audio
+201314,Multimedia::Audio
+201683,Development tools::FFI
+201683,No standard library
+201683,Compilers
+201927,Command-line interface
+201947,Science::Robotics
+202513,Embedded development
+202634,Hardware support
+202634,Computer vision
+203688,Science
+205905,Development tools::FFI
+207082,Multimedia::Audio
+207084,Multimedia::Audio
+207203,Development tools::FFI
+207247,Multimedia::Audio
+208216,Multimedia::Audio
+211972,Hardware support
+211972,Computer vision
+212439,Development tools::Profiling
+212791,Graphics
+212792,Graphics
+212794,Graphics
+214088,Multimedia::Images
+214088,Multimedia
+214460,Hardware support
+219057,Compression
+219057,Filesystem
+219057,Game development
+220645,Rendering::Graphics APIs
+220645,Graphics
+221520,No standard library
+222808,API bindings
+222808,Operating systems::macOS APIs
+222808,Operating systems::Unix APIs
+222808,Operating systems
+223795,Database interfaces
+223887,Network programming
+223887,Operating systems::Unix APIs
+224471,Network programming
+224471,Operating systems::Unix APIs
+226251,Embedded development
+226267,Multimedia::Audio
+229099,GUI
+229099,Embedded development
+229099,No standard library
+230600,API bindings
+230600,Asynchronous
+230600,Filesystem
+230600,Operating systems::Unix APIs
+230772,Encoding
+230772,Science
+231043,Operating systems::Windows APIs
+232264,API bindings
+232264,Development tools::FFI
+232264,Operating systems::Windows APIs
+232265,API bindings
+232265,Development tools::FFI
+232265,Operating systems::Windows APIs
+232994,Science::Robotics
+233601,Authentication
+234475,Science
+234475,Mathematics
+235902,Filesystem
+235902,Hardware support
+235902,Operating systems::Unix APIs
+235951,Hardware support
+235951,Computer vision
+236040,Compression
+236040,Science
+236899,Network programming
+236899,Game development
+238080,Hardware support
+238080,No standard library
+238080,Game development
+238534,Embedded development
+238722,API bindings
+238722,Asynchronous
+238722,Database interfaces
+238977,Operating systems::macOS APIs
+241146,Science
+241146,Mathematics
+241177,API bindings
+243633,Multimedia::Audio
+243634,Hardware support
+244191,Compression
+244308,WebAssembly
+245943,Network programming
+246680,Mathematics
+247224,API bindings
+247224,Command-line interface
+247224,Web programming
+247224,WebAssembly
+247783,GUI
+249656,API bindings
+249656,Cryptography
+249660,API bindings
+249660,Cryptography
+251663,Embedded development
+251667,Mathematics
+251860,Development tools::Debugging
+252659,Multimedia
+254851,Science
+254852,Science
+254867,Development tools::FFI
+255210,Compression
+255210,Science
+255595,API bindings
+255595,Filesystem
+255595,Operating systems::Unix APIs
+255828,Development tools::FFI
+256287,API bindings
+256287,Configuration
+256330,Operating systems::Windows APIs
+258892,Simulation
+260629,Multimedia::Audio
+262442,Operating systems::macOS APIs
+264032,No standard library
+264709,Rendering::Graphics APIs
+264709,No standard library
+264709,Graphics
+264779,Multimedia::Images
+266459,Rendering::Graphics APIs
+266459,No standard library
+266459,Graphics
+266718,No standard library
+267396,Development tools::FFI
+269655,Simulation
+269655,Science::Robotics
+270858,Visualization
+271522,Data structures
+271522,Graphics
+271522,Game development
+275523,Operating systems::Linux APIs
+275963,Game engines
+276885,Encoding
+276885,Multimedia::Images
+278886,Science
+278886,Simulation
+279485,Multimedia::Encoding
+279979,GUI
+280818,Multimedia::Audio
+280829,WebAssembly
+281784,Development tools::FFI
+282730,Multimedia::Encoding
+282873,WebAssembly
+283686,Network programming
+283984,GUI
+283984,Operating systems::Linux APIs
+285226,Hardware support
+285226,Operating systems::Linux APIs
+285299,GUI
+285299,Operating systems::Linux APIs
+285800,Multimedia::Images
+287516,Algorithms
+287516,Cryptography
+292701,API bindings
+292701,Network programming
+292701,Operating systems
+292701,Operating systems::Linux APIs
+292702,API bindings
+292702,Network programming
+292702,Operating systems::macOS APIs
+292702,Operating systems
+292914,Filesystem
+293467,GUI
+293467,Operating systems
+296947,WebAssembly
+298134,Multimedia::Audio
+298805,GUI
+304490,Science
+305674,API bindings
+307714,Operating systems::Windows APIs
+307714,Parsing tools
+307714,Text processing
+311370,Cryptography
+313607,Multimedia::Audio
+313607,Multimedia::Video
+313607,Multimedia
+314493,Authentication
+314493,Operating systems::Unix APIs
+314498,Authentication
+314498,Operating systems::Unix APIs
+315094,Game engines
+316946,Network programming
+318759,Hardware support
+320534,Operating systems
+321058,Science
+321058,Simulation
+321058,Mathematics
+321585,Operating systems
+321585,Operating systems::Linux APIs
+322409,Game engines
+322409,Multimedia
+322409,Rendering
+322778,Game engines
+322778,Multimedia
+322778,Rendering
+322933,Development tools::FFI
+323684,Filesystem
+323684,Operating systems::Unix APIs
+323685,Filesystem
+323685,Operating systems::Unix APIs
+325320,API bindings
+325320,Asynchronous
+326613,Operating systems::Windows APIs
+326613,No standard library
+326908,Science
+329792,API bindings
+329792,Operating systems::Linux APIs
+330050,API bindings
+330050,Operating systems::Linux APIs
+330140,API bindings
+330140,Operating systems::Linux APIs
+335434,Science
+335434,Simulation
+335434,Mathematics
+344259,Graphics
+347393,Hardware support
+347393,Embedded development
+348001,Multimedia::Audio
+348639,Database interfaces
+352398,Compression
+352412,Compression
+353340,Embedded development
+353340,No standard library
+354920,Compression
+354920,Encoding
+354920,Graphics
+354920,Game development
+358559,Operating systems::Unix APIs
+358714,Algorithms
+358714,Science
+358714,Computer vision
+360662,Date and time
+363836,API bindings
+366877,Operating systems::Linux APIs
+367189,GUI
+369949,Filesystem
+369949,Operating systems
+369949,Operating systems::Linux APIs
+369950,Filesystem
+370551,API bindings
+370551,Cryptography
+370551,Hardware support
+370556,API bindings
+370556,Cryptography
+370556,Hardware support
+372537,API bindings
+372537,Cryptography
+372622,Development tools::FFI
+372622,No standard library
+372778,Database interfaces
+372778,Database implementations
+373301,Emulators
+373301,Science
+373301,Simulation
+373765,API bindings
+373765,Science
+373765,Graphics
+374413,No standard library
+378847,API bindings
+378847,Hardware support
+378847,Multimedia::Images
+379408,API bindings
+379408,Asynchronous
+379408,Authentication
+379408,Cryptography
+382729,No standard library
+382808,Encoding
+382808,Memory management
+382808,Parsing tools
+386356,Science
+388252,Embedded development
+389103,Operating systems::Windows APIs
+391787,Operating systems::Unix APIs
+391794,Operating systems::Unix APIs
+392174,Compression
+392174,Multimedia::Images
+394384,Multimedia::Images
+398163,Multimedia::Audio
+398166,Multimedia::Audio
+398267,Science
+402477,Operating systems::macOS APIs
+402483,Data structures
+402483,Database interfaces
+402483,Science
+403519,Computer vision
+408619,Asynchronous
+408619,Web programming
+409729,Graphics
+410283,Operating systems
+410283,Embedded development
+410283,No standard library
+411403,Multimedia::Images
+411981,Operating systems::Windows APIs
+412245,Emulators
+414918,API bindings
+414918,Encoding
+414918,Science
+414918,Mathematics
+416328,API bindings
+416328,Encoding
+416328,Science
+416328,Mathematics
+416853,Database interfaces
+417726,Mathematics
+417789,Mathematics
+423239,Operating systems::FreeBSD APIs
+427672,Multimedia::Audio
+428042,Multimedia::Audio
+428042,Operating systems::Unix APIs
+432252,API bindings
+432252,Operating systems::Linux APIs
+432960,Games
+432960,WebAssembly
+434933,Multimedia
+434933,Rendering
+434933,Graphics
+435394,Operating systems
+435394,Operating systems::Linux APIs
+443573,Multimedia::Audio
+443573,Parser implementations
+444230,Operating systems::Linux APIs
+449808,Multimedia::Audio
+449808,Multimedia::Encoding
+450254,Emulators
+450342,Visualization
+451299,API bindings
+451651,Operating systems::Unix APIs
+451993,API bindings
+452877,Development tools
+452877,API bindings
+452877,Game development
+453213,API bindings
+453213,Database interfaces
+455870,No standard library
+456678,Algorithms
+456678,Mathematics
+456693,Algorithms
+456693,Mathematics
+458413,Science
+462474,Operating systems::Linux APIs
+463202,API bindings
+463202,Multimedia
+464597,Hardware support
+464597,Operating systems
+464597,Operating systems::Linux APIs
+467805,Hardware support
+467805,No standard library
+469030,Algorithms
+469030,Mathematics
+470195,Game development
+473488,API bindings
+473488,Filesystem
+473488,Operating systems::Unix APIs
+480324,Science
+480864,Multimedia
+481109,Date and time
+481607,Rendering
+482241,API bindings
+482241,Operating systems
+482241,No standard library
+485133,API bindings
+485133,Science
+485133,Graphics
+485175,Database interfaces
+485689,Operating systems::macOS APIs
+485843,Operating systems::macOS APIs
+486732,Database interfaces
+487927,API bindings
+487927,Development tools::FFI
+487927,Game development
+487927,Accessibility
+491436,API bindings
+491436,Hardware support
+491436,Multimedia::Images
+491579,Cryptography
+491579,Hardware support
+491579,Embedded development
+491579,No standard library
+492383,Embedded development
+495149,Asynchronous
+495149,Filesystem
+497806,API bindings
+497806,Localization (L10n)
+499212,WebAssembly
+499509,Operating systems
+499511,GUI
+499670,Development tools::Build Utils
+499676,Embedded development
+499676,Graphics
+499677,Embedded development
+499677,Graphics
+500638,API bindings
+500638,Development tools::FFI
+500638,Game development
+500638,Accessibility
+500688,Mathematics
+505506,Operating systems::Windows APIs
+505506,No standard library
+505782,Asynchronous
+505782,Filesystem
+506425,Embedded development
+506425,Graphics
+506427,Embedded development
+506427,Graphics
+507792,API bindings
+511389,Cryptography
+511389,Network programming
+511389,Embedded development
+520453,Hardware support
+524237,Parsing tools
+524237,Embedded development
+524237,No standard library
+525580,API bindings
+525580,Development tools::FFI
+525580,Accessibility
+525581,API bindings
+525581,Development tools::FFI
+525581,Accessibility
+525658,Filesystem
+525658,Operating systems::Unix APIs
+526807,Computer vision
+527022,Emulators
+527022,GUI
+527022,Game development
+529403,Development tools::FFI
+529403,Encoding
+529408,Development tools::FFI
+529408,Encoding
+529421,Development tools::FFI
+529472,Development tools::FFI
+533536,Rendering::Graphics APIs
+533536,Graphics
+533536,Game development
+537167,GUI
+537167,Embedded development
+537167,No standard library
+540210,GUI
+544148,Graphics
+544148,Game development
+544149,Graphics
+544149,Game development
+547043,API bindings
+547043,Compression
+549489,Algorithms
+549489,Mathematics
+549803,Game engines
+549803,Multimedia
+549803,Rendering
+551034,Development tools::FFI
+555075,Database interfaces
+555076,Database interfaces
+558123,Encoding
+559374,Operating systems::macOS APIs
+559374,Operating systems::Windows APIs
+559374,Operating systems::Linux APIs
+563123,Compilers
+563273,Development tools
+564264,Compression
+564264,Data structures
+564817,API bindings
+570121,GUI
+570121,Operating systems
+573349,Operating systems::Unix APIs
+573349,No standard library
+573541,Operating systems::Unix APIs
+573541,No standard library
+579272,Algorithms
+579272,No standard library
+585386,API bindings
+585386,WebAssembly
+588644,Science
+588644,Mathematics
+589312,Science
+589312,Simulation
+590118,Multimedia::Audio
+590118,Multimedia::Encoding
+590453,Development tools::FFI
+590453,No standard library
+590454,Development tools::FFI
+595490,Compression
+596848,API bindings
+597067,API bindings
+597067,WebAssembly
+597628,API bindings
+597628,WebAssembly
+597629,API bindings
+597629,WebAssembly
+597630,API bindings
+597630,WebAssembly
+598586,Database interfaces
+599660,API bindings
+602666,API bindings
+602885,Encoding
+604816,Operating systems::Unix APIs
+604816,No standard library
+606072,Operating systems::Unix APIs
+606072,No standard library
+609100,API bindings
+609100,Asynchronous
+609100,Concurrency
+609100,Hardware support
+611152,Memory management
+611152,Science
+611152,Mathematics
+613013,Internationalization (i18n)
+615112,GUI
+615112,Game development
+618108,Filesystem
+620928,Hardware support
+620928,Operating systems::Linux APIs
+621073,Compilers
+621120,Hardware support
+621120,Operating systems::Linux APIs
+621161,Hardware support
+621161,Operating systems::Linux APIs
+621163,Hardware support
+621163,Operating systems::Linux APIs
+621165,Hardware support
+621165,Operating systems::Linux APIs
+621179,Hardware support
+621179,Operating systems::Linux APIs
+621187,Hardware support
+621187,Operating systems::Linux APIs
+621205,Hardware support
+621205,Operating systems::Linux APIs
+621782,Operating systems::macOS APIs
+621782,Operating systems::Windows APIs
+621782,Operating systems::Linux APIs
+622049,Operating systems::macOS APIs
+631333,API bindings
+635216,API bindings
+635216,Hardware support
+635216,Configuration
+635216,Operating systems::Linux APIs
+638861,API bindings
+638861,WebAssembly
+642331,Hardware support
+642353,Hardware support
+648337,Hardware support
+648337,No standard library
+648338,Hardware support
+648338,No standard library
+648339,Hardware support
+648339,No standard library
+648340,Hardware support
+648340,No standard library
+648341,Hardware support
+648341,No standard library
+648349,Hardware support
+648349,No standard library
+648358,Hardware support
+648358,No standard library
+648359,Hardware support
+648359,No standard library
+648360,Hardware support
+648360,No standard library
+648361,Hardware support
+648361,No standard library
+648362,Hardware support
+648362,No standard library
+648363,Hardware support
+648363,No standard library
+648365,Hardware support
+648365,No standard library
+648366,Hardware support
+648371,Hardware support
+648375,Hardware support
+648376,Hardware support
+648376,No standard library
+648380,Hardware support
+658500,API bindings
+658500,Development tools::FFI
+668489,Filesystem
+668489,Operating systems::Windows APIs
+669065,API bindings
+669065,Development tools::FFI
+669065,Operating systems::macOS APIs
+669065,Accessibility
+669066,API bindings
+669066,Development tools::FFI
+669066,Operating systems::macOS APIs
+669066,Accessibility
+669067,API bindings
+669067,Development tools::FFI
+669067,Operating systems::macOS APIs
+669067,Accessibility
+669068,API bindings
+669068,Development tools::FFI
+669068,Operating systems::macOS APIs
+669068,Accessibility
+677690,Emulators
+677819,Mathematics
+678556,API bindings
+678556,No standard library
+679009,API bindings
+679009,No standard library
+680787,Science
+681163,API bindings
+681163,Accessibility
+683315,Multimedia::Audio
+683315,Operating systems::Windows APIs
+689606,Development tools::FFI
+690547,Simulation
+690547,Science::Robotics
+693857,API bindings
+693857,WebAssembly
+693894,Multimedia::Audio
+693894,Multimedia::Encoding
+693894,Multimedia
+693922,Multimedia::Audio
+693922,Multimedia::Encoding
+693922,Multimedia
+695111,Mathematics
+700227,API bindings
+700227,Database interfaces
