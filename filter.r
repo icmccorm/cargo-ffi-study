@@ -4,7 +4,7 @@ library(ggplot2)
 library(tidyr)
 options(dplyr.summarise.inform = FALSE)
 
-crates_path <- file.path("crates.csv")
+crates_path <- file.path("./data/crates.csv")
 crates <- read_csv(
     crates_path,
     show_col_types = FALSE
@@ -30,7 +30,7 @@ arrange(desc(downloads))
 
 top20 %>% write.table(
     file.path(paste(
-        "top20.csv",
+        "./data/top20.csv",
         sep = ""
     )),
     sep = ",",
@@ -41,7 +41,7 @@ top20 %>% write.table(
 
 top5 %>% write.table(
     file.path(paste(
-        "top5.csv",
+        "./data/top5.csv",
         sep = ""
     )),
     sep = ",",
@@ -52,7 +52,7 @@ top5 %>% write.table(
 
 top1 %>% write.table(
     file.path(paste(
-        "top1.csv",
+        "./data/top1.csv",
         sep = ""
     )),
     sep = ",",
