@@ -1,12 +1,9 @@
-190193,perf-event-open-sys
 2869,llvm-sys
 196371,oboe-sys
-369950,fts-sys
 8323,blkid-sys
 232265,windows-dll
 304490,openvino-sys
 67740,yara-sys
-88263,sys-mount
 109858,libevent-sys
 38425,unwind-sys
 85545,nftnl-sys
@@ -16,7 +13,3 @@
 372537,tss-esapi-sys
 8708,libappindicator-sys
 41114,nettle-sys
-462474,devicemapper-sys
-255595,fuser
-126961,fermium
-3706,mongoc-sys
