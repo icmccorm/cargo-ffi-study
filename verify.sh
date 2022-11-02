@@ -5,6 +5,8 @@ NC='\033[0m' # No Color
 cargo build 1> /dev/null
 rm -f ./data/verified.csv > /dev/null
 rm -rf ./test > /dev/null
+echo "crate_id, name, status" >> ./data/verified.csv
+
 while IFS=, read crate_id name updated_at created_at downloads repository version; 
 do 
     if (cargo-download -x "$name==$version" --output ./test 1> /dev/null); then 

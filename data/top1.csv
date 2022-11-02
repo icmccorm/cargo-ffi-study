@@ -1,4 +1,0 @@
-795,libc,2022-10-25 23:09:06,2015-01-15 20:22:13,145177014,https://github.com/rust-lang/libc,0.2.137
-41,openssl-sys,2022-10-22 13:31:15,2014-11-11 06:38:37,46261124,https://github.com/sfackler/rust-openssl,0.9.77
-39,libz-sys,2022-05-28 05:18:05,2014-11-11 06:38:26,23892829,https://github.com/rust-lang/libz-sys,1.1.8
-251,bindgen,2022-10-16 19:54:05,2014-11-21 10:14:40,19262316,https://github.com/rust-lang/rust-bindgen,0.61.0

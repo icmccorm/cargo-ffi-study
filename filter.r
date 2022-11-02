@@ -10,53 +10,22 @@ crates <- read_csv(
     show_col_types = FALSE
 )
 
-quantile_max <- unname(quantile(crates$downloads, c(.80)))[[1]]
-top20 <- crates %>% filter(
+verified_path <- file.path("./data/verified.csv")
+verified <- read_csv(
+    verified_path,
+    show_col_types = FALSE
+)
+with_abi <- verified %>%
+    filter(status != "noabi") %>%
+    inner_join(crates, by = c("crate_id"))
+
+with_abi
+
+with_abi %>% write.csv(file = file.path("./data/all.csv"))
+
+quantile_max <- unname(quantile(with_abi$downloads, c(.80)))[[1]]
+with_abi %>% filter(
     downloads >= quantile_max
 ) %>%
-arrange(desc(downloads))
-
-quantile_max <- unname(quantile(crates$downloads, c(.95)))[[1]]
-top5 <- crates %>% filter(
-    downloads >= quantile_max
-) %>%
-arrange(desc(downloads))
-
-quantile_max <- unname(quantile(crates$downloads, c(.99)))[[1]]
-top1 <- crates %>% filter(
-    downloads >= quantile_max
-) %>%
-arrange(desc(downloads))
-
-top20 %>% write.table(
-    file.path(paste(
-        "./data/top20.csv",
-        sep = ""
-    )),
-    sep = ",",
-    quote = FALSE,
-    row.names = FALSE,
-    col.names = FALSE
-)
-
-top5 %>% write.table(
-    file.path(paste(
-        "./data/top5.csv",
-        sep = ""
-    )),
-    sep = ",",
-    quote = FALSE,
-    row.names = FALSE,
-    col.names = FALSE
-)
-
-top1 %>% write.table(
-    file.path(paste(
-        "./data/top1.csv",
-        sep = ""
-    )),
-    sep = ",",
-    quote = FALSE,
-    row.names = FALSE,
-    col.names = FALSE
-)
+arrange(desc(downloads)) %>%
+write.csv(file = file.path("./data/top20.csv"))
